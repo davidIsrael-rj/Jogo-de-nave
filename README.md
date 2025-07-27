@@ -1,1 +1,1 @@
-Iremos brincar um pouco acessando o site nesse endereço: https://davidisrael-rj.github.io/Jogo-de-nave/
+Vamos brincar um pouco? Acesse o site https://davidisrael-rj.github.io/Jogo-de-nave/
